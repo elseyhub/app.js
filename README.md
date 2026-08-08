@@ -1,7 +1,9 @@
 # app.js
-1.Learn JavaScript (ES6+).
-2.Understand Node.js fundamentals (modules, file system, events).
-3.Learn npm and package management.
-4.Build HTTP servers with built-in modules and frameworks like Express.js.
-5.Work with databases (MongoDB, PostgreSQL, MySQL).
-6.Learn authentication, REST APIs, and deployment.
+<ol>
+<li>Learn JavaScript (ES6+).</li>
+<li>Understand Node.js fundamentals (modules, file system, events).</li>
+<li>Learn npm and package management.</li>
+<li>Build HTTP servers with built-in modules and frameworks like Express.js.</li>
+<li>Work with databases (MongoDB, PostgreSQL, MySQL).</li>
+<li>Learn authentication, REST APIs, and deployment.</li>
+</ol>
